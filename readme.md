@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xfvck" alt="0xfvck" /></a> </p>
 
-- 🌱 I’m currently learning **Offensive Python, Rubi and Perl.**
+- 🌱 I’m currently learning **Offensive Python, Ruby and Perl.**
 
 - 💬 Ask me about **Python**
 
